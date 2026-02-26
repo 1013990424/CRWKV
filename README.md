@@ -29,7 +29,7 @@ This is the official PyTorch code for the paper "[CRWKV: A Spatially Consistent 
 1、Python 3.10.12  
 2、Pytorch 2.6.0
 
-```
-
 ## Acknowledgements
 The codes are based on [URWKV](https://github.com/FZU-N/URWKV), [FreqMamba](https://github.com/aSleepyTree/FreqMamba), and [Uformer](https://github.com/ZhendongWang6/Uformer). Please also follow their licenses. Thanks for their awesome works.
+
+```
