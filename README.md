@@ -9,11 +9,11 @@ This is the official PyTorch code for the paper "[CRWKV: A Spatially Consistent 
 
 ## Contents
 
-- [x] [Datasets](https://github.com/NJUPT-IPR-XuLintao/UPT-Flow/blob/main/README.md#-datasets)
-- [] Training
-- [] [Testing](https://github.com/NJUPT-IPR-XuLintao/UPT-Flow/blob/main/README.md#-testing)
-- [] [Results](https://github.com/NJUPT-IPR-XuLintao/UPT-Flow/blob/main/README.md#-results)
-- [] [Acknowledgements](https://github.com/NJUPT-IPR-XuLintao/UPT-Flow/blob/main/README.md#-acknowledgements)
+- [x] Datasets
+- [ ] Training
+- [ ] Testing
+- [ ] Results
+- [ ] Acknowledgements
 
 ## 1.Datasets
 
